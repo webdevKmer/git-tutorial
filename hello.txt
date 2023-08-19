@@ -1,4 +1,4 @@
 Hello World!
 How are you?
 We are fine, and you?
-conflict 2
+conflict 1
