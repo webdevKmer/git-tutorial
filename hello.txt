@@ -2,3 +2,5 @@ Hello World!
 How are you?
 We are fine, and you?
 conflict 1
+conflict 3
+conflict 4
